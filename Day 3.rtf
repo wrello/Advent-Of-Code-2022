@@ -1,0 +1,363 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2706
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 local input = [[\
+FzQrhQpJtJMFzlpplrTWjTnTTrjVsVvvTnTs\
+mScqSqqgcfPCqGPZcfGNSvTNsVVNSjNvWSNsNz\
+fPcPGqgCcHgFzQpJJtHtJH\
+DZDqqlrjplDHrNCmnBcHBMCRcJzb\
+RQFLStFvdcBbzdJbJM\
+PThQtwftTPFvtTPhvtFtfFtpZZllwjRNlsqNqqZjwpGlrZ\
+pPwtqgwJZPJLgQqSFlqhFFlqMd\
+DBmCWBBDWTRGvcVRTCCnnfQlFSdlzfhfdMWQfjhhQz\
+drmBVVCRgprPtrZp\
+HznjQjvmzDMVrQnMLJMMlfWgPSlJGWWJPl\
+BdcqqhcdBRpFhhZBthhctdJSJJWfgGFlJCSFgbWPCDJS\
+NdRTZdNqBwqtthpRBTTRqdtZrsLQVzrrzjzDwDsnmrQrnsrr\
+HZFZCFzZWszqsRTBZTNMhmthVTmhDppmMQVPpm\
+wjvSbJddvrvlrvnJSJJvlJmhPlhVPVtGVpQDBVMpphQP\
+frbrfrcvvnvjfwbcJgrrCBRsCFsNzRgRCHCqssRH\
+dDFNqNqZqPLNqvqTTvCLSPdZssGHClJQJcRHJGHHcHBcsMsQ\
+lrjmWgWWrhjgrppQHHMQrsQRJGcBJc\
+lVlmnwjmdTTSvVFN\
+FWNFHvQPmLGwwwSHtswwln\
+RfMJcDdfdcfdddfZjdchrtZmSmCZVtqVnZmrnrtC\
+JMmJcfjjphcghpgjhRGzGzBBGPFGNBvPTpFL\
+cVPVwStmmcQPBQPpSCppwhHZNNqHszNBhsNRNjqHzj\
+MfWdDgvdbnvgMTWgvgZfzmsZJHzNhqjqjRhJ\
+MDWMWGndMgFDnFLDwQrPPCSrCSVrlmGS\
+QLZmPdRdWmMsMDWZmsLWWrhMHcHGzHvGzFcvrvzNrc\
+tplSbLVBlvHHcFNnSr\
+VqfgwLlCJWmWQTfW\
+nRWvlvRbtLvdMCPFGL\
+wrfsJNNGhNzGrTgDMDLgPMLPfq\
+wcVhJQhwhrrBpmVblBRGSG\
+HHHcggrZLcQQcQll\
+GzfzTRTzmmFMwSNSwdSJQtNLNB\
+TGbmLMFTzVVVTMzmFMfFPMHPZhnjZCpHnhgnZnPWCPZZ\
+MRwwpVMHRspqVqwmccDlDrcHBBZgBl\
+jQfQQQjWWFBgmcgDfcZg\
+hvvSQzSnQQSWWQWSjTZVTRMshwVCssppwV\
+pvrTvCvtFppCHMMZcdDFdcZM\
+wLjTQnqljjSnlwjqjRgLcHHHMBDMZhBMHgHcbBDh\
+mqjqlSNqRqwSRrWCvzGmtfTfzs\
+TWScDCqCQQVBWDqWHsHswwBgRJzRhhHp\
+dPttGrvFfGjMjnjvshsJgsJLgghRgH\
+rFMlGdtjPffNnnrffSNcVCDqQqCQRqQRRN\
+GmBRbVpPbmJcwggBBgWW\
+LjsTCNNtddjHqLLgWwccqgfq\
+nsjNjntNtjHCsDwZmwZZVmmGSvSD\
+bwDDgNFtMMDbFsMbFwWWVcRcSpcgjgQWhWSp\
+lfTJJlvdfCffccWppRjRlcSc\
+RnzGdJJmsMNnMFtM\
+bsBTFsqqTTmFZTsQBWWznWCRshlJNJlCVh\
+GjGnDvDjvjPppHwwpwgrPPClJhNVRCzhhzJWlWlhNlvJ\
+ffdgLrgdLrDjdfHPbbZbttcBbcbLmntn\
+TNTwwvTTHNtTHNLLVqtqTSZBJnrnhhbrFJjZjnVZgghF\
+cplWfRlzcWfRCZZhFrGjBfjZjn\
+pddzDsRpDcclzCQMWBvNSmTTSqdvPPvqwqtT\
+DQTttwwLtQtVSDMJDRmmSS\
+ffsWfvrBWrPvwJhPhPSMPMVn\
+WsvsggFvwNLgHtNQ\
+llBbVDMTlFVdFDTbVggSVsqZqZZZqqvNJZJRNRWgtv\
+HhpjcHHvjPsqCsWcNcsq\
+GfpvnPvwFDTTFFDw\
+GMmFGMGFFgVwQHQwwM\
+cJtZNtZTbThcZtcZJJtTZWJPllgNgpPvVgpjHvQpRpHQNg\
+hWcJZcnhcJznbcBZLqSLDfCmHqnqCLsD\
+zQpjLpnhnsHTnlQLrMCCHPFrvvCMPcHm\
+ZfgdSBtNqBwlgSDfZDwtqSFvJCvrPrVvFmwCJFvrmmFV\
+dfbRNZBqDtgRNBNNNljLLjhGRGGWGLGTRhjz\
+hhrnfBzhtzZgDgDnBfrfDZsRpMNCNNWjwCCfGQGGNGCGQC\
+lcdPmHLSPDSdFDpQMLjCQQQCRGpN\
+lJSSbmPdVdVvdHbvSDFHHPlZqgBnttzgTsssTrqgbZbsTT\
+FsdsShrgggLDdbSDsgrGrlWHTpfRpTjjfFTzRTRjBWWp\
+mPvqCmJCqJNnPvPNPCvvLTTVjHjzNWHHTWRBRVTWVz\
+wJLvqPZmJtccncvZmJqqrghDGQwbdSGdsgGgQgQr\
+zFwtNJGtNFlpnwHccZjZbcpprsmc\
+PWQfBWhBgQgTWQRLThBqMSVDSbbDRsVDmsmZsSZDjr\
+fvQfWBfLqfTqhLhCvNFttJlCwGrrCC\
+fNrGLNrfNrGjllRRRPmWVL\
+tbJdcFbSSssZSmmpFcsSbwDWVWBlllVPDnnjBFjDRnBF\
+ZZJcvZctgNmmvMGhQm\
+HhhjFRhgrcRTFLvWVJVQWJVHDHQJPP\
+GwCmwBfGzfSCzCfwtmtzzJVWSVJJZrbWQQQqJJDZVJ\
+mtfzpGdststtBmfmCwrGRFcTcvjngjFnRcLnpLLn\
+rrwjdwLgVmVwHrfPCJPQBCBGmPtt\
+ccNZqbNnMMblNpTlNpnhhBPSJsQhJtJtChPJqS\
+vTWvNcWNWTFvnnvcgjzDLVQLgHVwWDrW\
+jNPgbNHbfLJgLzfz\
+ShvhhFVVDShFVqMSSSvZfffvPLtBBBBJJlpfLJJv\
+DqhnShhMnZZwCSDCMhChrRnNrNdNQbHNNPmjmdHN\
+VQVZGQFnzFTSsBfgzgfs\
+rjlpjtDrtMLZPMtPtpPZPwCsgSHgMHCCmCTWsgBWSBmg\
+pjvDqLwrlDtwqtqNLvtjpPPwRNbQRncQVQddZhRhJQbJncbG\
+PsBSqnSdQsFhmmmnppFc\
+TRhNvrTCvNTHVcfHbJVTpc\
+rhtWvGWLrjRqdSqqLLqdld\
+vPhfqPJvrMrnffDDhvpMjdzGMLdLLQpllLGQ\
+mbmcFSScGbSCcQlzwQQlclsg\
+BSGVCmCTZWCGGvnvfZHqqrDhHN\
+GSRfrzGRhzsGChjTBBlqBgjgCTCn\
+wHQwtDVDHwHHDJcDWJZwzHZBqTnnBFlvjFgBqnljjvBdBZ\
+JNmVJpVmNtDHJWHrbfPLhbGhrzRbpr\
+WcWcbzNPbDwBNvWBwRMPQmJZQRQZftRZGP\
+LhVHFgggTHCFHhfMQQSMMGQRMLLM\
+qnrqppFVHphqfDsNbzjrzbrN\
+cwgDrdLSrBrvvhDzCljjTW\
+VHtVZpspQtMQsVRQppFVQVHtCdPTPTzdjvhTzTTPRvjjvWhn\
+QQZpMdJsQFJHtMHdScwLwLJGrSScSwqw\
+ZsjNflGfRfRPrZNRFcffLwJdwcLdDBnwzzzDznVn\
+CTGvhhTqbtbgTqLJWdDntzWWdnLw\
+phCMgmQGvvHCvMhbTQQFsNsNFPZSfZjffmNsll\
+CNpCJHLNhhSSHZPgrFlFFWgpFpmzjj\
+qQttDVDwQGdQGvqDQfwbcVrrlljjzzmzrVJgrr\
+nvMDsqqqQvfvsqDnRSZHJPPZHhLHLS\
+RNNrrPfDNRQwQhjscghMqs\
+WVZlHvnZqtlLVLvwjwhsggTstMhwTw\
+vGHWLJlVWlmLVqRCGCFFNfqqGf\
+MNzqCnvqvqvCVLBvvCVCpVcRssncrPSTWGrPSPdGTcrP\
+hmHwFmQjFlhtZmHwtZjjddSSGcsdPrrGcQQQRGPW\
+fHbbFjlhZwmtwhfjmmwmmLbpLqzqvBzLzCvLNRMbNB\
+tQfLrtQPrrfDSSCVlDfLSrmbBjGvWjjLmWWWpWNNppmv\
+wdHhRTTndnRThdvnBFGpNBMnpvvp\
+JdqTHTHHRdqzsJRRzTRHscJdDSGCfDlqQZqlfZrZZCffqSSQ\
+hQMWLsgGJMMhsCHggQWhgspDWFPzZvPvptDvzvmtdtdF\
+BrBlrTBrNRbfnjNQlZDztPvpmpppmzvfdd\
+jQlQlqQVbVcsMgMgChhJVs\
+MtFMCTWRFRRtCRTTRTMGJddjLdstHvBzBHzHVVpL\
+lZSDnbDlnZPrbHpzJJsdSVJpBL\
+nNghhPrlZlgDTFhCfMFJRMQF\
+RGpPFZPRQZPFRGvpPQPpjvpmhnnCMjhmhgBgVgMVWBVgVM\
+wLtfNdNHmrNthCBgCbhnngWd\
+srSfwHfszsNmtswlrqQDGQFDRPJGDvzRppRJ\
+GVFFGvVWZLFsmssFRNfVvmGGJPpJTTqDBvTpqlpDvqbBtTPl\
+gQhzzChzrMQhjpzlzWzJpPpBJb\
+ghgWjcCjMgCHWdQMhdjChCmfwmRRGZZGVHLZHRfmNwVs\
+DnDVhdnrfSfpcGGjQQGdJddJ\
+bPWPRbRsRMsHNzDqTZcGBcqZqmmN\
+HvwPvvzMPwDCChDVwS\
+vTCCvTfWFDTtRPMvfWFlDFHBqGLpLzbwBgWwqzGqbBbB\
+cQcSNchSJSZShVJNnZrhSqBpgwGHHtGwqtbwLbqpbr\
+JNnJVsJscNstNhQsjnVVNlFfMmTMFfCTfjFvfPRPPF\
+VLFBsgffNFNqRvbz\
+ChltjTdjDhHpHZvdpjjZhwCpbNrbSzzbrNGMTMMNSMbWWNSN\
+vQjpttQhHnLsBQVLsQ\
+mbzQgTzRVVbsVdQgzzVRddmztFGWNGNNWnGtFSGBsrCNWCrC\
+jfJjvPPwLDcHDPvDDPDppLCWCFBGWntCBnrtFcrFWTGn\
+wpJPLjvpTTDpwhfgzmVMbqhdhVRgzl\
+PlcqbWClLmnqZVLq\
+THwdrrhddhhfJJhwLJhpQnDVnznnmZQQnSpfpD\
+vrFdvGsGHhhhwHjFGrFGJHdMCCcNgbWMPccRRccMFLNPPP\
+tbppJqcNtJnZzRJbPFsFPHfZrrshFDjj\
+GdwgwlLgGCndsDFrhDHHFF\
+SSlLnmmvqWNqmcqb\
+ZPFPPTZpZSWzCMMSzPBsFvhtlQvJQQtJhsVs\
+dmNbmgbrwDNmbcDgwNdcwdLsnhlJlnvtsBJnhVQqqnstLB\
+bNGfDGgHHVwbwNwVfgmRMzCzzCSHjSRZSZCTRS\
+dDTffQdqQQLBLnVLLQvL\
+rrBHZZcgJcrLvNLtLgRLbN\
+cjjJhrFlhZwFFzwJzmTBBdmTsDPzDsBP\
+ClGrJJMNCrGQqlcPvWgnDP\
+ZBvbjHpSwBVVVcWjjjqQ\
+BLSbbwsHSTBHwmLHHLbBsSTFdrfvCrtmdzfGJzrdzGJddGfh\
+gljWRwmSjtJWjJtJjgjSZfVSTVVHGZSVHcVchZ\
+pBzLFQpPsFBGcGBTThfB\
+pFpQzFLPLpvQFQnLbsqqGddgjbmwRldwtWmlGWwj\
+PDQDMFQBMfWPvjdLLndLjrmsMj\
+qZqVzTRRqHtvZGGtVqTTzVjLLsrmJCddnLjrjHsrhdCr\
+GzwcZtqNzqvNqwzZVGRwSzbpWfFbWPlWFpNDBfQfFNNf\
+dfRszdzVdsjwdhLwCCqwGllHvPGPwG\
+SpJtBLFgcGqHQClqZF\
+JrttrtcTmSSLrmtBTrNgnBJjbNhhbhzRdsVdMhNjhMMhVd\
+MPFSCfSMqVSBGrtzlvccfQctzbzl\
+hZNjTHWWTZwshbLvmlWpBzmbmm\
+dRTTJNDNhjsJqBBMMgrJPVVr\
+WnVzDMjlDVWwwHgwhmgNhNNsJh\
+qfvrLNCcbLdvpcvbrPPqCsGhSJGTTBspTshBpTBBms\
+ZLvvZfrPfPCLbCFFzjVQzRnNNMVzDQ\
+nllbFTTpTFTBcnCjQPqQdZRQZhCb\
+tvWszrrztvSmzQQvrDmZRjjjPPDVqPRdZRdCPd\
+gfzvSsftgQHQHgQl\
+GVbHRRGRLpdmGWTm\
+gSPPltPlrlvccFccPlcJNCTpnnmpMCLMMmWfdRmMSS\
+FzNJRhhvPFRvQwzqjqzBHZZj\
+PhZSpFBPBFsNmjBVllltBj\
+JMGLnrrnbfffrdqRqPHnnqLDVTDDjgmRgwtmjDljlDVlwl\
+LHMqPqPnnqGLWJPMnndrGfSWppzvvFSChFFFvvzQSQZz\
+RSWWssbvnnCqZnWsRCnssWrTggNhgbNHBgQjhhQBgjNT\
+mcpzcppzczcDGVcPcDLLGLjmrMNTNtQNHhMHrQBQNTgN\
+LVpPfcjjWvsFFnFf\
+MpddpdCpJdJlbdMvBHMnnsHqSRvG\
+PWvZfFmZrrfmwWwFznBnqRRSGcsBVmVBRG\
+zjzzhQPQvzjLPQzwffrwrtlTCDtJDlgJLltpTTJlTl\
+TvTWjjzpznGttFFZccrrPrSZllcB\
+gNNSqHMqsMHQJHNZCDDCZDqLZdlZBD\
+SMQNSRNbRRHwhwhsRmtnvWVmmnbGnjmpGn\
+ccSVQjCQddTsFJcH\
+gLppBfgfmvCRFdsddTJJgb\
+WMLMmWGGBZWZLCtvDhlSSDGlwhSPSzSP\
+TpqVGVHFQGmqSqPZdccNCzzhdwCjNG\
+fffbbvftMrBMDDcCccCZCjlvhCCd\
+RLWMnbftDhnMRtfBftRJMtLMgFgHmmpmPmSmmQFPPLHHVTQS\
+nRvwQSDNcpVJJcJR\
+qZMjBhjhZMMBzLBGLGrjJbTPVTpbdPPdVbVb\
+ZZpmFFZlfGqfmmGMzlfmMmnWQDtHtSvnWWNSHSSstFtS\
+bFDGZjGDbbRSgLtN\
+CphJVfJWCTBgvfLHNRcwnt\
+WVhPWBTzzChzhhhBmrpPPCJZDQtdMlrjFQdrFqsjdrQsFG\
+ZBpVQHHVMMWWdmmLWw\
+lQhhrjcRttrqbvQLNwdDWzmNSDmStz\
+QbGqhcbvcsqvCCHnsCZHCnTn\
+tlWtQTTTJjTQtVnmrbnPWVShVC\
+MDMGGzsHcwFgGZBqrmmPSnbqVmNVGC\
+sZFPwHcMZDBRTlvQQJttTQTR\
+FhVRfGptMGMnZhRFBNRBCCNHHNvTNTRC\
+zmwrLLSjrbzmNlcvvrHvDPCN\
+JLwjQdSbjdbSdqJQFGVqFVMgnGHMfGVV\
+fffZWrJqZSHWTWHqSvrgDhggzRjttsDhpDgs\
+PGlBLcBBbnnbLLFbGLBjRgjFTFVzshtzpgsppz\
+TGCPnMPQlGnPmclPlnnQmbmHJvNvfHdqwddwvvZfCNHCfW\
+ClLwpspTPrTFZCdzFbZdbQ\
+RRMWfRgWVRMRQBZZScVczVGFbjNb\
+MfnvMqWmslvDhQPw\
+hdndSdqsTddBhdcmmNHFDcqHttPF\
+JjMzzMZQGwZGZJzMzZJQzGJFvPvNPtFmvmNmDvcFtvDHMv\
+gZwzQwJfGVJQJbGLBsSTSTdTbCWDBSnd\
+ZZCHZRzMZGRMhMMVVFNThrdd\
+SgsccSPmmgqssSlqsgcmscSqlhpFdVThjphNrdrhjdwdhFJN\
+vmttqTcqvLqqmPccmqSBbRWnWzQZZZZBHnQCzHDH\
+GgPnGdSPBpGsLTBL\
+rVNJjmwZqtZZshltFTtvRFsL\
+mqmWrZVqWjrqZMNwPMQQbsddgdsbsgPz\
+LZLVvjZrggHLJggSZDgrnPnQnRnppVRllntRdPFz\
+chMCzbqGmhNhhbBCMBdFnpfqFnltRRQnlPpQ\
+TChmWcMMTmBswJzZZrWrvzgg\
+gngRNBNRBsNFFBgfgbLLLnqdSLvLTcbLbd\
+GWtlChlVMllcZSDWSLbdZL\
+lljjGlhMGrGJpsFdRJfsfzfz\
+jVTdrnGQcQtTTTFQqBqsgHHFgsqf\
+ZZLbPLzDzPZCmsgqsBHt\
+wDzDlPblRDPLPvhvwtdnnhdrnrMGWMVGMThj\
+spjjpjvjpjmQjrpCMfSlfzrPBl\
+dHFntHWnnbRVFtnbcqHFzBCCCPzfPMlcCSlgllzc\
+RLbVWHnnSWtnHFbdbVRdNNtQsjsQTjDLwmGTmTssQwmLGJ\
+JbJJSLMhRMSLhNqqwFDwFNcFqL\
+GcpnGnznnpzpzGpffNTNTwTfwdDNNdTFdD\
+nllnlPGWQWHcGpzzQGGzGvHGJbVVtJSChQVbmtmVJrmrmbRm\
+GFsFrzwrflmtdtbltG\
+ggLPDngCJncNLJRDwgnllmJqjWMjhjhjWWmWjj\
+nBNRNPgpRgDLTgNwfsSHVBQHVHwsZr\
+WwvnvWvcFtwtSFSF\
+zBZZZRQSzMBSgSVJGjGTPTGFzCzmmj\
+fZDrpZZfRfMgSQDDBhgQghDHsnbrcNlWnnLWHLrHsWnllc\
+ZVncdPPwVPdhZngnqHWHNNvTHvlMvn\
+fSLjjLSGGBjTTHqvBqrMNT\
+RSSSDGRtSGZthTTctmtg\
+rtzrfJbgJHRfGRZLPR\
+hdVhlllmFlFPLwHmsRGGZP\
+nTWhRjTBTWlvNQgnJSSbrJtz\
+JgVTpBpfvgpTDDJFJvTgggtlFlNNMRLNNzNNZRNHMRCLlF\
+wbPWcSGbGqWDlnNWMMMCLMWZ\
+wrsGcbrcbcqwDwbcmGvQBQgTTsdVJgJsVdQf\
+mztrhgJtDrhgcrZmnhbnzbhcMTMPlBCPBGVGTMVGslCCPGDs\
+FLRQmjjFSQpQwLlPsMsCpvslvPCB\
+fNLLwSdSwWSWjwmrtczZhhrJzdzh\
+HHwCwJFmHZttZCfCSffSMHcVDMcPBRPcPRDhPghM\
+nvQLsTnLslnLvpzGTssnsRPDMhPgVPVgtcVMRPgVQQ\
+vnsTGWlTLsWTLLvNsGWlsZrwmZCJddjFmtJJNZFftj\
+hbjSTvSJTfcSwcPSPfTbfHszVVFpGnpJpsHFnHVVls\
+rtZrcQrRZZQrmZBQlCGppnppHzpVFCGR\
+WmLqmgNtcLNQWTbPvfPwbbdb\
+HzZgsdHglHlzdHsFtsNNJSlNcSpjcjlrrNVv\
+wqqWRPPqwmbcqPjQVvSPJJrVpv\
+qqBBqmWRhqRLqcBnhzzztgnTdDHnHsFsHn\
+rJPFVwwsrJwmdVrLWJvvRBWBvbzWlb\
+nDZcNGNpjTpHncvpZCDnTNZGhlWzQhWbpRRQlQhpWWSWLlQb\
+CDNntnCCHnvmqPfwtFdVqd\
+gqBwgBjCswwgqNBNCVDDTVdhlSDTDcZc\
+HvRRFMzRRRRMpHrtTllfhZHHSShHTf\
+PmlGLPrppMrrmFFmLMWRjbsjnsjwQNJWnbQjWgBN\
+pDggpFgRghZjBFPPnPPFrt\
+cwTfLwBVwCWbLcVTVVvrdndGjMHrnGJtnttdMC\
+NTVcWNvcBSpgNqspRQlN\
+DLDgFlDmNZfjfnJZSF\
+tctvttzvGGzvrHqtVVdwnJGSSnnjjZdWTdwW\
+zvpcrbpHpqJJsPbPlLlhmhglPQ\
+pvHHvssFCFZQNCftttdQdd\
+VgTGTTVGgLjDjlLGzgPVMTNwmcwQmMQfQtmdcmwMJwNm\
+TPjTDjfGWTLLljgzrWpZZbsqrFqhqbps\
+ppVLcfcwSLgpSLVLgWwtfshDNDqvWvGvlQZvDNHQHjqq\
+MPrzmdRrPPrCJFnMnMRRFRPdqqZQNQvjvZDGDlHhQvGNDG\
+BmBMBBJTMmPBJMMFCCFJRmrsTlVpVbpwLSVwLsgcwTVlVc\
+SSGzmFRzmRGLgSSmGMJFnvfvJnJVnJQnMl\
+cBpjHtjwNfcpNZtppHtCMlMPMlJBVlVQlvJPvJ\
+dNtNZwqWfqtqZWtHttsqHqrRrrdRTLbmmzSLmTGGmbrg\
+RrrddnrgnRbbgWdGrfnwgQwjDjDpvTpBQTwBPP\
+MHCStZJzSwvPjWQD\
+mcJWVHCCLcGLbdcn\
+PlMsdjPdGMjdPSrSjgddbLbmHHTszHZzpHmsTFvmpzZzmN\
+ntRJQVRfcQhcQWhnchBJWntTFTTTNTSpFtztmZFDTpDZ\
+hQfcfCBSwCccVJhSJnrPPGLqPlbPLCrqldgb\
+vgvWDMZvGpcqgqsP\
+tSdtjLHLQLHjdFdDddQSQhwlsGqwQlqqqhQsPhGc\
+tbRjtTLFRvTZDBrMrV\
+\
+]]\
+\
+local lowerByteOffset = -(97 - 1)\
+local upperByteOffset = -(65 - 27)\
+\
+local function findDuplicate(line)\
+    local firstHalf = line:match("(" .. ("%a"):rep(math.floor(#line/2)) .. ").*")\
+    local secondHalf = line:gsub(firstHalf, "")\
+    \
+    for char in firstHalf:gmatch("%a") do\
+        if secondHalf:find(char) then\
+            return char\
+        end\
+    end\
+end\
+\
+local total = 0\
+\
+for line in input:gmatch("(%a+)\\n") do\
+    local duplicate = findDuplicate(line)\
+    local val = duplicate:byte() + (duplicate:match("%l") and lowerByteOffset or upperByteOffset)\
+    \
+    -- print(duplicate, "found in both halves with a value of", val)\
+    \
+    total = total + val\
+end\
+\
+print(total)\
+\
+\'97 PART 2 \'97\
+\
+local lowerByteOffset = -(97 - 1)\
+local upperByteOffset = -(65 - 27)\
+\
+local function findDuplicate(line1, line2, line3)\
+    for char in line1:gmatch("%a") do\
+        if line2:find(char) and line3:find(char) then\
+            return char\
+        end\
+    end\
+end\
+\
+local total = 0\
+\
+for line1, line2, line3 in input:gmatch(("(%a+)\\n"):rep(3)) do\
+    local duplicate = findDuplicate(line1, line2, line3)\
+    local val = duplicate:byte() + (duplicate:match("%l") and lowerByteOffset or upperByteOffset)\
+    \
+    -- print(duplicate, "found in both halves with a value of", val)\
+    \
+    total = total + val\
+end\
+\
+print(total)}
