@@ -35,7 +35,6 @@ end
 for line in input:gmatch("([^\n]+)\n") do
 	if line == "$ ls" then
 		currentDirectory = getOrDefaultFromPath(currentPath, filesystem, {})
-		continue
 	elseif line:match("^$ cd") then
 		if line:find("%.%.") then
 			currentPath = currentPath:gsub("%.[^%.]+$", "") -- Remove a child from the path
@@ -121,7 +120,6 @@ end
 for line in input:gmatch("([^\n]+)\n") do
 	if line == "$ ls" then
 		currentDirectory = getOrDefaultFromPath(currentPath, filesystem, {})
-		continue
 	elseif line:match("^$ cd") then
 		if line:find("%.%.") then
 			currentPath = currentPath:gsub("%.[^%.]+$", "") -- Remove a child from the path
